@@ -1,0 +1,21 @@
+/* shared styles */
+
+.display-flex {
+    display: flex;
+}
+
+.section-short-width {
+    width: 75%;
+    margin: auto;
+}
+
+/* header styles */
+
+.nav-content {
+    list-style: none;
+}
+
+.top-nav {
+    justify-content: space-between;
+    align-items: center;
+}
